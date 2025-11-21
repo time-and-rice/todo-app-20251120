@@ -1,0 +1,2 @@
+- 品質ゲートとして npx tsc --noEmit, pnpm lint を通すこと。
+- すべてのコミットに Conventional Commits を使用すること。コミットメッセージは日本語で書くこと。
